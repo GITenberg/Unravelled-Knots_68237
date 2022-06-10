@@ -1,5 +1,8 @@
 _repo: Unravelled-Knots_68237
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 68237-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Orczy, Emmuska Orczy, Baroness
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/45
     wikipedia: https://en.wikipedia.org/wiki/Baroness_Orczy
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68237#Unravelled-Knots
 gutenberg_issued: '2022-06-04'
 identifiers:
   gutenberg: '68237'
